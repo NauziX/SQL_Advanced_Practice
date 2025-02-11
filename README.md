@@ -10,7 +10,7 @@ Este repositorio contiene la práctica de SQL avanzado y Data Warehousing desarr
 - **PostgreSQL** 🐘
 - **BigQuery** ☁️
 - **Google Cloud Platform (GCP)** 🌍
-- **TablePlus 🖥️
+- **TablePlus** 🖥️
 
 ## 📜 Instalación y Uso
 
