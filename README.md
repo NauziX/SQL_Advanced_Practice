@@ -1,9 +1,10 @@
 # SQL Advanced Practice 
 
-Este repositorio contiene la práctica de SQL avanzado y Data Warehousing desarrollada como parte del curso de KeepCoding. En este proyecto, se trabajan consultas avanzadas en **PostgreSQL** y **BigQuery**, además de modelado de bases de datos y manipulación de datos .
+Este repositorio contiene la práctica de SQL avanzado y Data Warehousing desarrollada como parte del curso de KeepCoding. En este proyecto, se trabajan consultas avanzadas en **PostgreSQL** y **BigQuery**, además de modelado de bases de datos
 
 ##  Contenido del Proyecto
-
+   1. DIAGRAMA ENTIDAD RELACIÓN
+      [Descargar Diagrama ER](https://github.com/NauziX/SQL_Advanced_Practice/raw/main/Diagrama_ERKeepCoding.pdf) 
 
 ##  Tecnologías Utilizadas
 
