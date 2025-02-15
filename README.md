@@ -1,4 +1,4 @@
-# SQL Advanced Practice 
+# SQL Practice 
 
 Este repositorio contiene la práctica de SQL avanzado y Data Warehousing desarrollada como parte del curso de KeepCoding. En este proyecto, se trabajan consultas avanzadas en **PostgreSQL** y **BigQuery**, además de modelado de bases de datos
 
