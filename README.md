@@ -19,7 +19,7 @@ Este repositorio contiene la práctica de SQL avanzado y Data Warehousing desarr
    [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKC/raw/main/5.sql)  
 
 6. **Generar el campo `customer_phone`**  
-   [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKCe/raw/main/6.sql)  
+   [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKC/raw/main/6.sql)  
 
 7. **Generar el campo `billing_account_id`**  
    [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKC/raw/main/7.sql)  
