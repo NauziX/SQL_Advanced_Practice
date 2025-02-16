@@ -34,13 +34,15 @@ Este repositorio contiene la práctica de SQL avanzado y Data Warehousing desarr
    [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKC/raw/main/10.sql)  
 
 11. **Generar los campos `repeated_phone_24H` y `cause_recall_phone_24H`**  
-   [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKC/raw/main/11.sql)  
+   [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKC/raw/main/11.sql)
+
+13. **Crear una función de limpieza de enteros**
+   [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKC/raw/main/13.sql)
  
    Archivo donde contiene las preguntas de la practica:
    [Descargar PDF](https://github.com/NauziX/SQL_PracticeKC/raw/main/Práctica%Advanced%SQL.pdf)
    
-13. **Crear una función de limpieza de enteros**
-   [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKC/raw/main/13.sql)
+
 
 ##  Tecnologías Utilizadas
 
