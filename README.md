@@ -37,7 +37,7 @@ Este repositorio contiene la práctica de SQL avanzado y Data Warehousing desarr
    [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKC/raw/main/11.sql)  
  
    Archivo donde contiene las preguntas de la practica:
-   [Descargar PDF] (https://github.com/NauziX/SQL_PracticeKC/raw/main/Práctica Advanced SQL.pdf)
+   [Descargar PDF](https://github.com/NauziX/SQL_PracticeKC/raw/main/Práctica%Advanced%SQL.pdf)
 
 ##  Tecnologías Utilizadas
 
