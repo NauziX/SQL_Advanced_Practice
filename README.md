@@ -38,6 +38,9 @@ Este repositorio contiene la práctica de SQL avanzado y Data Warehousing desarr
  
    Archivo donde contiene las preguntas de la practica:
    [Descargar PDF](https://github.com/NauziX/SQL_PracticeKC/raw/main/Práctica%Advanced%SQL.pdf)
+   
+13. **Crear una función de limpieza de enteros**
+   [Descargar Script .SQL](https://github.com/NauziX/SQL_PracticeKC/raw/main/13.sql)
 
 ##  Tecnologías Utilizadas
 
